@@ -1,4 +1,4 @@
-# Skapa en Berättelse med MAUI
+# Skapa en berättelse med MAUI
 
 ## Översikt
 Detta projekt går ut på att ni, i par, ska skapa en interaktiv berättelse med hjälp av .NET MAUI. Berättelsen kan vara ett spel, en äventyrsberättelse eller något annat kreativt. Ni kommer att använda GitHub för att hantera er kod och projektets arbetsflöde.
